@@ -1,0 +1,6 @@
+asgiref==3.4.1
+Django==3.2.7
+djangorestframework==3.12.4
+mysqlclient==2.0.3
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+sqlparse==0.4.2
